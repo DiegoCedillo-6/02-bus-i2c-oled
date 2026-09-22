@@ -20,5 +20,5 @@
     [ "esp:22", "oled:SCL", "gold", [ "v0.8", "h186.31" ] ],
     [ "esp:21", "oled:SDA", "green", [ "v0.8", "h196.14" ] ]
   ],
-  "dependencies": { "Adafruit SSD1306": "2.5.13", "Adafruit GFX Library": "1.11.11" }
+  "dependencies": { }
 }
